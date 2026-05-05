@@ -174,10 +174,6 @@ Kafka acts as the event backbone while Redis enables sub-millisecond behavioural
 - GET `/bank/balance`
 - GET `/bank/account/by-upi/{upiId}`
 
-</details>
-
----
-
 <details>
 <summary>🐳 Docker Setup</summary>
 
